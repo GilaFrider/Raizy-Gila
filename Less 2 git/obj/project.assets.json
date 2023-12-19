@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\git\\Less 2 git\\Less 2 git.csproj",
+      "projectUniqueName": "H:\\git\\Raizy-Gila\\Less 2 git\\Less 2 git.csproj",
       "projectName": "Less 2 git",
-      "projectPath": "H:\\git\\Less 2 git\\Less 2 git.csproj",
+      "projectPath": "H:\\git\\Raizy-Gila\\Less 2 git\\Less 2 git.csproj",
       "packagesPath": "C:\\Users\\פרידר גילה\\.nuget\\packages\\",
-      "outputPath": "H:\\git\\Less 2 git\\obj\\",
+      "outputPath": "H:\\git\\Raizy-Gila\\Less 2 git\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
